@@ -7,7 +7,7 @@ notebook~=7.1.2
 jupyterlab-filesystem-access
 
 #sqlite kernel
-jupyterlite-xeus-sqlite-kernel
+jupyterlite-xeus-sqlite
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.3.1
